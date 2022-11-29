@@ -1,0 +1,180 @@
+body{
+    margin-left: 5px;
+      background-color: #EAF6F6;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+    }
+    .mmm{
+
+      font-size: 50px;
+    }
+    .b1
+    {
+      border-radius: 9px;
+      background-color: #97DBAE;
+      margin-top: 50px;
+      margin-bottom: 25px;
+
+    }
+
+    .b2
+    {
+      border-radius: 9px;
+      background-color: #97DBAE;
+      margin-bottom: 25px;
+
+    }
+
+    .b3
+    {
+      border-radius: 9px;
+      background-color: #97DBAE;
+      margin-bottom: 25px;
+
+    }
+    hr{
+      border-style: none;
+      border-top-style: dotted;
+      border-width: 5px;
+      border-color: black;
+      width: 5%;
+      margin-top: 0;
+      margin-bottom: 0;
+      border-top: 5px;
+    }
+    .inline-block1
+    {
+      height: 180px;
+      width: 180px;
+      margin-right: 0;
+
+    }
+    .inline-block2
+    {
+      position: absolute;
+      left: 250px;
+      top: 30px;
+      height: 80px;
+      width: 250px;
+
+    }
+    .inline-block3
+    {
+      margin: auto;
+    }
+    .b1
+    {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+    .b2
+    {
+      padding-left: 7px;
+      padding-right: 7px;
+    }
+    .contact_info
+    {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+       background-color: #424646;
+    }
+    .info
+    {
+
+      color: #f7941d;
+    }
+    .admin-top
+    {
+      margin-left: 220px;
+      position: absolute;
+      top: 10px;
+
+      background-color: #383838;
+      height: 175px;
+      width: 1030px;
+    }
+    .UMS
+    {
+      color: white;
+    }
+    .A1
+    {
+      color: White;
+    }
+    .admin-left
+    {
+      background-color: #383838;
+      height: 100%;
+      width: 210px;
+      position: absolute;
+      top: 190px;
+      left: 5px;
+    }
+    .B1
+    {
+      position: absolute;
+      right: 20px;
+      background-color: #97DBAE
+
+    }
+
+    .B12
+    {
+      border-radius: 5px;
+      position: absolute;
+      left: 30px;
+      top: 80px;
+      background-color: #97DBAE
+    }
+    .B13
+    {
+      border-radius: 5px;
+      position: absolute;
+      left: 30px;
+      top: 160px;
+      background-color: #97DBAE
+    }
+    .B16
+    {
+      border-radius: 5px;
+      position: absolute;
+      left: 30px;
+      top: 240px;
+      background-color: #97DBAE
+    }
+    .B17
+    {
+      border-radius: 5px;
+      position: absolute;
+      left: 30px;
+      top: 320px;
+      background-color: #97DBAE
+    }
+
+  input{
+
+      margin: 11px auto;
+      font-size: 16px;
+      padding: 7px;
+      border: 2px solid black;
+      border-radius: 6px;
+    }
+
+    form{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+    .btn{
+      color: black;
+      background: #97DBAE;
+      padding: 7px 12px;
+      font-size: 14px;
+      border: 2px solid white;
+      border-radius: 14px;
+      cursor: pointer;
+    }
